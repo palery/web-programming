@@ -1,0 +1,76 @@
+html {
+	background-color:#f7f7f7 <!-#ff5c35;->
+}
+body {
+	font-family: Cascadia Code;
+}
+
+header {
+	text-align:center;
+	padding:10px;
+	background-color:#121214;
+	color:#f7f7f7;
+	border:5px solid #f7f7f7;
+	border-radius:25px;
+}
+
+#bio {
+	text-align:center;
+	padding:10px;
+	background-color:#121214;
+	color:#f7f7f7;
+	border:5px solid #f7f7f7;
+	border-radius:25px;
+}
+
+#work {
+	text-align:center;
+	padding:10px;
+	background-color:#121214;
+	color:#f7f7f7;
+	border:5px solid #f7f7f7;
+	border-radius:25px;
+}
+
+.project1 {
+	display:inline-block;
+	line-height:150px;
+	margin:15px;
+	padding:15px;
+	border:5px solid #f7f7f7;
+	border-radius:10px;
+	
+	
+
+}
+
+.project2 {
+	display:inline-block;
+	line-height:150px;
+	margin:15px;
+	padding:15px;
+	border:5px solid #f7f7f7;
+	border-radius:10px;
+
+}
+
+.project3 {
+	display:inline-block;
+	line-height:150px;
+	margin:15px;
+	padding:15px;
+	border:5px solid #f7f7f7;
+	border-radius:10px;
+
+}
+
+footer {
+	text-align:center;
+	padding:10px;
+	background-color:#121214;
+	color:#f7f7f7;
+	border:5px solid #f7f7f7;
+	border-radius:25px;
+
+}
+
